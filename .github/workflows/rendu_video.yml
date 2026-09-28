@@ -1,0 +1,48 @@
+name: Rendu Vidéo CI
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test-and-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Installer les dépendances
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pytest
+
+      - name: Vérifier la structure du projet
+        run: |
+          ls -la
+          ls -la assets
+          ls -la output
+          ls -la temp
+
+      - name: Lancer les tests
+        run: |
+          pytest -q
+
+      - name: Vérifier le démarrage de l'API
+        run: |
+          python -c "from main import app; print('OK')"

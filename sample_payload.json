@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "Quelle est la planète la plus proche du Soleil dans notre système solaire ?",
+      "choix_a": "Vénus",
+      "choix_b": "Mercure",
+      "choix_c": "Mars",
+      "choix_d": "Jupiter",
+      "reponse_correcte": "B"
+    },
+    {
+      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
+      "choix_a": "France",
+      "choix_b": "Croatie",
+      "choix_c": "Brésil",
+      "choix_d": "Allemagne",
+      "reponse_correcte": "A"
+    },
+    {
+      "question": "Combien de cœurs possède une pieuvre ?",
+      "choix_a": "Un seul cœur",
+      "choix_b": "Deux cœurs",
+      "choix_c": "Trois cœurs",
+      "choix_d": "Quatre cœurs",
+      "reponse_correcte": "C"
+    },
+    {
+      "question": "En quelle année l'Homme a-t-il posé le pied sur la Lune pour la première fois ?",
+      "choix_a": "1965",
+      "choix_b": "1969",
+      "choix_c": "1972",
+      "choix_d": "1981",
+      "reponse_correcte": "B"
+    },
+    {
+      "question": "Quelle est la plus vaste forêt tropicale de la planète ?",
+      "choix_a": "La forêt du bassin du Congo",
+      "choix_b": "La forêt tempérée de Valdivia",
+      "choix_c": "La forêt boréale canadienne",
+      "choix_d": "La forêt amazonienne",
+      "reponse_correcte": "D"
+    }
+  ],
+  "style": {
+    "background_video": "assets/backgrounds/default.mp4",
+    "music_file": "assets/sfx/music.mp3",
+    "tick_sfx": "assets/sfx/tick.mp3",
+    "correct_sfx": "assets/sfx/correct.mp3",
+    "font_path": "assets/fonts/Montserrat-Black.ttf",
+    "color_question": "#FFFFFF",
+    "color_box_default": "#1E1E2E",
+    "color_box_correct": "#2ECC71",
+    "color_box_wrong": "#555555",
+    "voice_name": "fr-FR-HenriNeural"
+  }
+}
