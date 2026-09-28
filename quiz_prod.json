@@ -1,44 +1,44 @@
 {
   "questions": [
     {
-      "question": "Quel est le point culminant du Cameroun ?",
-      "choix_a": "Le Mont Koupé",
-      "choix_b": "Le Mont Cameroun",
-      "choix_c": "Le Mont Manengouba",
-      "choix_d": "Les Monts Mandara",
-      "reponse_correcte": "B"
-    },
-    {
-      "question": "Quel fleuve est le plus long entièrement situé au Cameroun ?",
-      "choix_a": "La Bénoué",
-      "choix_b": "Le Wouri",
-      "choix_c": "Le Nkam",
-      "choix_d": "La Sanaga",
+      "question": "Quelle est la plus vaste région du Cameroun en superficie ?",
+      "choix_a": "L'Adamaoua",
+      "choix_b": "Le Centre",
+      "choix_c": "Le Nord",
+      "choix_d": "L'Est",
       "reponse_correcte": "D"
     },
     {
-      "question": "Combien de pays ont une frontière terrestre avec le Cameroun ?",
-      "choix_a": "4",
-      "choix_b": "5",
-      "choix_c": "6",
-      "choix_d": "7",
+      "question": "Sur quel fleuve est construit le pont historique de Douala ?",
+      "choix_a": "La Sanaga",
+      "choix_b": "Le Moungo",
+      "choix_c": "Le Wouri",
+      "choix_d": "Le Nyong",
       "reponse_correcte": "C"
     },
     {
-      "question": "Dans quelle région se trouve le parc national de Waza ?",
-      "choix_a": "Nord",
-      "choix_b": "Extrême-Nord",
-      "choix_c": "Adamaoua",
-      "choix_d": "Est",
+      "question": "Quel pays frontalier se trouve directement à l'ouest du Cameroun ?",
+      "choix_a": "Le Tchad",
+      "choix_b": "Le Nigeria",
+      "choix_c": "Le Gabon",
+      "choix_d": "La RCA",
       "reponse_correcte": "B"
     },
     {
-      "question": "Quelle ville est surnommée la 'Cité des fleurs' ou ville des collines ?",
-      "choix_a": "Bafoussam",
-      "choix_b": "Ngaoundéré",
-      "choix_c": "Yaoundé",
-      "choix_d": "Dschang",
+      "question": "Quelle région administrative compte la ville de Garoua pour chef-lieu ?",
+      "choix_a": "Extrême-Nord",
+      "choix_b": "Adamaoua",
+      "choix_c": "Nord",
+      "choix_d": "Nord-Ouest",
       "reponse_correcte": "C"
+    },
+    {
+      "question": "Dans quel golfe marin le littoral camerounais s'ouvre-t-il ?",
+      "choix_a": "Golfe d'Aden",
+      "choix_b": "Golfe de Guinée",
+      "choix_c": "Golfe Persique",
+      "choix_d": "Golfe de Syrte",
+      "reponse_correcte": "B"
     }
   ],
   "style": {
