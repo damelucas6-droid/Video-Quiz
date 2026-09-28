@@ -34,6 +34,7 @@ jobs:
 
       - name: Check project structure
         run: |
+          mkdir -p assets output temp
           ls -la
           ls -la assets
           ls -la output
