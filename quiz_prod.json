@@ -1,43 +1,43 @@
 {
   "questions": [
     {
-      "question": "Quelle est la plus vaste région du Cameroun en superficie ?",
-      "choix_a": "L'Adamaoua",
-      "choix_b": "Le Centre",
-      "choix_c": "Le Nord",
-      "choix_d": "L'Est",
-      "reponse_correcte": "D"
+      "question": "Dans Hunter x Hunter, quel est le nom du roi suprême des Fourmis Chimères ?",
+      "choix_a": "Meruem",
+      "choix_b": "Netero",
+      "choix_c": "Pitou",
+      "choix_d": "Youpi",
+      "reponse_correcte": "A"
     },
     {
-      "question": "Sur quel fleuve est construit le pont historique de Douala ?",
-      "choix_a": "La Sanaga",
-      "choix_b": "Le Moungo",
-      "choix_c": "Le Wouri",
-      "choix_d": "Le Nyong",
+      "question": "Dans One Piece, lequel de ces personnages n'était PAS un des Quatre Empereurs d'origine ?",
+      "choix_a": "Barbe Blanche",
+      "choix_b": "Shanks",
+      "choix_c": "Barbe Noire",
+      "choix_d": "Kaido",
       "reponse_correcte": "C"
     },
     {
-      "question": "Quel pays frontalier se trouve directement à l'ouest du Cameroun ?",
-      "choix_a": "Le Tchad",
-      "choix_b": "Le Nigeria",
-      "choix_c": "Le Gabon",
-      "choix_d": "La RCA",
+      "question": "Dans Dragon Ball Z, comment s'appelle la technique que Goku apprend auprès de Maître Kaio pour concentrer l'énergie de l'univers ?",
+      "choix_a": "Kaioken",
+      "choix_b": "Genkidama",
+      "choix_c": "Kamehameha",
+      "choix_d": "Kikoho",
       "reponse_correcte": "B"
     },
     {
-      "question": "Quelle région administrative compte la ville de Garoua pour chef-lieu ?",
-      "choix_a": "Extrême-Nord",
-      "choix_b": "Adamaoua",
-      "choix_c": "Nord",
-      "choix_d": "Nord-Ouest",
+      "question": "Dans One Piece, quel amiral de la Marine possède le fruit élémentaire de la glace (Hie Hie no Mi) ?",
+      "choix_a": "Akainu",
+      "choix_b": "Kizaru",
+      "choix_c": "Aokiji",
+      "choix_d": "Fujitora",
       "reponse_correcte": "C"
     },
     {
-      "question": "Dans quel golfe marin le littoral camerounais s'ouvre-t-il ?",
-      "choix_a": "Golfe d'Aden",
-      "choix_b": "Golfe de Guinée",
-      "choix_c": "Golfe Persique",
-      "choix_d": "Golfe de Syrte",
+      "question": "Dans Hunter x Hunter, de quel type de Nen fait partie la technique du Jajanken de Gon ?",
+      "choix_a": "Transformation",
+      "choix_b": "Renforcement",
+      "choix_c": "Matérialisation",
+      "choix_d": "Émission",
       "reponse_correcte": "B"
     }
   ],
