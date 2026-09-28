@@ -52,6 +52,24 @@ jobs:
       - name: Upload generated MP4
         uses: actions/upload-artifact@v4
         with:
-          name: quiz-video
+          name: production-quiz-video
           path: output/*.mp4
           if-no-files-found: error
+
+      - name: Generate production quiz
+        run: |
+          python -c "import json; from pathlib import Path; from main import QuizPayload; data=json.loads(Path('quiz_prod.json').read_text(encoding='utf-8')); QuizPayload(**data); print('payload ok')"
+
+      - name: Run production render
+        run: |
+          python - <<'PY'
+          import json, asyncio
+          from pathlib import Path
+          from main import QuizPayload, execute_quiz_background_task, TASK_REGISTRY
+
+          payload = QuizPayload(**json.loads(Path('quiz_prod.json').read_text(encoding='utf-8')))
+          task_id = 'prod_run'
+          TASK_REGISTRY[task_id] = {'task_id': task_id, 'status': 'queued', 'progress': 0}
+          asyncio.run(execute_quiz_background_task(task_id, payload))
+          print('render started')
+          PY
