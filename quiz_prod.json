@@ -1,44 +1,44 @@
 {
   "questions": [
     {
-      "question": "Dans Hunter x Hunter, quel est le nom du roi suprême des Fourmis Chimères ?",
-      "choix_a": "Meruem",
-      "choix_b": "Netero",
-      "choix_c": "Pitou",
-      "choix_d": "Youpi",
+      "question": "Dans Dragon Ball Z, qui élimine définitivement Cell lors du Cell Game ?",
+      "choix_a": "Son Goku",
+      "choix_b": "Vegeta",
+      "choix_c": "Son Gohan",
+      "choix_d": "Trunks du futur",
+      "reponse_correcte": "C"
+    },
+    {
+      "question": "Dans Naruto, quel membre de l'Akatsuki possède le Rinnegan au début de Shippuden ?",
+      "choix_a": "Itachi",
+      "choix_b": "Pain",
+      "choix_c": "Sasori",
+      "choix_d": "Deidara",
+      "reponse_correcte": "B"
+    },
+    {
+      "question": "Dans One Piece, quel membre de l'équipage Luffy recrute-t-il en premier ?",
+      "choix_a": "Zoro",
+      "choix_b": "Usopp",
+      "choix_c": "Nami",
+      "choix_d": "Sanji",
       "reponse_correcte": "A"
     },
     {
-      "question": "Dans One Piece, lequel de ces personnages n'était PAS un des Quatre Empereurs d'origine ?",
-      "choix_a": "Barbe Blanche",
-      "choix_b": "Shanks",
-      "choix_c": "Barbe Noire",
-      "choix_d": "Kaido",
-      "reponse_correcte": "C"
+      "question": "Dans Dragon Ball Super, quelle nouvelle transformation Goku débloque-t-il lors du Tournoi du Pouvoir ?",
+      "choix_a": "Super Saiyan Blue",
+      "choix_b": "Ultra Ego",
+      "choix_c": "Super Saiyan Rosé",
+      "choix_d": "Ultra Instinct",
+      "reponse_correcte": "D"
     },
     {
-      "question": "Dans Dragon Ball Z, comment s'appelle la technique que Goku apprend auprès de Maître Kaio pour concentrer l'énergie de l'univers ?",
-      "choix_a": "Kaioken",
-      "choix_b": "Genkidama",
-      "choix_c": "Kamehameha",
-      "choix_d": "Kikoho",
-      "reponse_correcte": "B"
-    },
-    {
-      "question": "Dans One Piece, quel amiral de la Marine possède le fruit élémentaire de la glace (Hie Hie no Mi) ?",
-      "choix_a": "Akainu",
-      "choix_b": "Kizaru",
-      "choix_c": "Aokiji",
-      "choix_d": "Fujitora",
-      "reponse_correcte": "C"
-    },
-    {
-      "question": "Dans Hunter x Hunter, de quel type de Nen fait partie la technique du Jajanken de Gon ?",
-      "choix_a": "Transformation",
-      "choix_b": "Renforcement",
-      "choix_c": "Matérialisation",
-      "choix_d": "Émission",
-      "reponse_correcte": "B"
+      "question": "Dans Naruto Shippuden, qui est le véritable fondateur secret de l'Akatsuki aux côtés de Yahiko et Nagato ?",
+      "choix_a": "Konan",
+      "choix_b": "Orochimaru",
+      "choix_c": "Kisame",
+      "choix_d": "Kakuzu",
+      "reponse_correcte": "A"
     }
   ],
   "style": {
