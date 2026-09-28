@@ -1,43 +1,43 @@
 {
   "questions": [
     {
-      "question": "Quelle est la capitale de la France ?",
-      "choix_a": "Paris",
-      "choix_b": "Lyon",
-      "choix_c": "Marseille",
-      "choix_d": "Nice",
-      "reponse_correcte": "A"
-    },
-    {
-      "question": "Combien de côtés a un carré ?",
-      "choix_a": "3",
-      "choix_b": "4",
-      "choix_c": "5",
-      "choix_d": "6",
+      "question": "Quel est le point culminant du Cameroun ?",
+      "choix_a": "Le Mont Koupé",
+      "choix_b": "Le Mont Cameroun",
+      "choix_c": "Le Mont Manengouba",
+      "choix_d": "Les Monts Mandara",
       "reponse_correcte": "B"
     },
     {
-      "question": "Quel est le plus grand océan du monde ?",
-      "choix_a": "Atlantique",
-      "choix_b": "Indien",
-      "choix_c": "Pacifique",
-      "choix_d": "Arctique",
+      "question": "Quel fleuve est le plus long entièrement situé au Cameroun ?",
+      "choix_a": "La Bénoué",
+      "choix_b": "Le Wouri",
+      "choix_c": "Le Nkam",
+      "choix_d": "La Sanaga",
+      "reponse_correcte": "D"
+    },
+    {
+      "question": "Combien de pays ont une frontière terrestre avec le Cameroun ?",
+      "choix_a": "4",
+      "choix_b": "5",
+      "choix_c": "6",
+      "choix_d": "7",
       "reponse_correcte": "C"
     },
     {
-      "question": "Quel animal est le plus grand de la planète ?",
-      "choix_a": "Éléphant",
-      "choix_b": "Girafe",
-      "choix_c": "Baleine bleue",
-      "choix_d": "Rhinocéros",
-      "reponse_correcte": "C"
+      "question": "Dans quelle région se trouve le parc national de Waza ?",
+      "choix_a": "Nord",
+      "choix_b": "Extrême-Nord",
+      "choix_c": "Adamaoua",
+      "choix_d": "Est",
+      "reponse_correcte": "B"
     },
     {
-      "question": "Quelle langue parle-t-on au Brésil ?",
-      "choix_a": "Espagnol",
-      "choix_b": "Français",
-      "choix_c": "Portugais",
-      "choix_d": "Italien",
+      "question": "Quelle ville est surnommée la 'Cité des fleurs' ou ville des collines ?",
+      "choix_a": "Bafoussam",
+      "choix_b": "Ngaoundéré",
+      "choix_c": "Yaoundé",
+      "choix_d": "Dschang",
       "reponse_correcte": "C"
     }
   ],
