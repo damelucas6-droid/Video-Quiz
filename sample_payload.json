@@ -1,44 +1,44 @@
 {
   "questions": [
-    {
-      "question": "Quelle est la planète la plus proche du Soleil dans notre système solaire ?",
-      "choix_a": "Vénus",
-      "choix_b": "Mercure",
-      "choix_c": "Mars",
-      "choix_d": "Jupiter",
-      "reponse_correcte": "B"
-    },
-    {
-      "question": "Quel pays a remporté la Coupe du Monde de football en 2018 ?",
-      "choix_a": "France",
-      "choix_b": "Croatie",
-      "choix_c": "Brésil",
-      "choix_d": "Allemagne",
+     {
+      "question": "Quelle est la capitale de la France ?",
+      "choix_a": "Paris",
+      "choix_b": "Lyon",
+      "choix_c": "Marseille",
+      "choix_d": "Nice",
       "reponse_correcte": "A"
     },
     {
-      "question": "Combien de cœurs possède une pieuvre ?",
-      "choix_a": "Un seul cœur",
-      "choix_b": "Deux cœurs",
-      "choix_c": "Trois cœurs",
-      "choix_d": "Quatre cœurs",
-      "reponse_correcte": "C"
-    },
-    {
-      "question": "En quelle année l'Homme a-t-il posé le pied sur la Lune pour la première fois ?",
-      "choix_a": "1965",
-      "choix_b": "1969",
-      "choix_c": "1972",
-      "choix_d": "1981",
+      "question": "Combien de côtés a un carré ?",
+      "choix_a": "3",
+      "choix_b": "4",
+      "choix_c": "5",
+      "choix_d": "6",
       "reponse_correcte": "B"
     },
     {
-      "question": "Quelle est la plus vaste forêt tropicale de la planète ?",
-      "choix_a": "La forêt du bassin du Congo",
-      "choix_b": "La forêt tempérée de Valdivia",
-      "choix_c": "La forêt boréale canadienne",
-      "choix_d": "La forêt amazonienne",
-      "reponse_correcte": "D"
+      "question": "Quel est le plus grand océan du monde ?",
+      "choix_a": "Atlantique",
+      "choix_b": "Indien",
+      "choix_c": "Pacifique",
+      "choix_d": "Arctique",
+      "reponse_correcte": "C"
+    },
+    {
+      "question": "Quel animal est le plus grand ?",
+      "choix_a": "Elephant",
+      "choix_b": "Baleine bleue",
+      "choix_c": "Girafe",
+      "choix_d": "Rhinocéros",
+      "reponse_correcte": "B"
+    },
+    {
+      "question": "Quelle langue parle-t-on au Brésil ?",
+      "choix_a": "Espagnol",
+      "choix_b": "Français",
+      "choix_c": "Portugais",
+      "choix_d": "Italien",
+      "reponse_correcte": "C"
     }
   ],
   "style": {
